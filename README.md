@@ -1,2 +1,2 @@
 # CubeNet
-(PR2020) CubeNet: X-shape Connection for Camouflage Object Detection
+(PR2020-Minor) CubeNet: X-shape Connection for Camouflage Object Detection
